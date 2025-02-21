@@ -1,0 +1,21 @@
+How would you create a new user account in Linux?
+Explain the difference between relative and absolute paths.
+What command would you use to change file ownership?
+How can you schedule a task to run automatically at a specific time?
+Describe how you would compress and decompress files in Linux.
+What's the purpose of the 'grep' command and how would you use it?
+How do you check and manage running processes in Linux?
+Explain how to set up a basic firewall using iptables.
+What command would you use to check system resource usage?
+How do you create and manage symbolic links?
+Describe the process of mounting and unmounting file systems.
+What's the difference between 'sudo' and 'su' commands?
+How would you search for files larger than a specific size?
+Explain how to redirect output to a file and append to an existing file.
+What command would you use to view real-time log entries?
+How do you check and modify file permissions recursively?
+Describe how to use the 'find' command to locate files.
+What's the purpose of the '/etc/fstab' file and how would you edit it?
+How can you check and manage available swap space?
+Explain how to use 'tar' for backing up and restoring files.
+10 intermediate Linux Commands in
